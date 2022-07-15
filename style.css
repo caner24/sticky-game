@@ -1,0 +1,30 @@
+
+.item {
+    display: none;
+}
+
+.grafik {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 4px;
+}
+
+.text-groups {
+    margin-top: 20px;
+}
+
+#text-item {
+    width: 10px;
+    list-style: none;
+    display: inline;
+}
+
+li {
+    display: inline;
+}
+
+input {
+    background-color: yellow;
+    border-radius: 30px;
+    width: 30px;
+}
